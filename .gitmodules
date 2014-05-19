@@ -1,0 +1,3 @@
+[submodule "iOSDevDoc.github.io"]
+	path = iOSDevDoc.github.io
+	url = git@github.com:iOSDevDoc/iOSDevDoc.github.io.git
