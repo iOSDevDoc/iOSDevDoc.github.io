@@ -1,6 +1,0 @@
-[submodule "iOSDevDoc.github.io"]
-	path = iOSDevDoc.github.io
-	url = git@github.com:iOSDevDoc/iOSDevDoc.github.io.git
-[submodule "_book"]
-	path = _book
-	url = git@github.com:iOSDevDoc/iOSDevDoc.github.io.git
